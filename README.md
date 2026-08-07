@@ -30,7 +30,8 @@ Brief description of your analytical approach:
     - Mann-Whitney non-parametric two-tailed test; p=<0.0001; N=2
 - 167 days per patient (14,331 total days) saved due to lower rate of hospitalization --> $28,872,000 estimated total savings ($500/PES visit & $2,000 per inpatient day)
 ```
-![Example figure](figures/example_chart.png)
+![Alt text](figures/Screenshot 2026-08-06 at 18.00.27.png
+
 ```
 
 ## Repository Structure
